@@ -20,3 +20,4 @@ Either download from Custom CSS or do the following:
 <img width="400" height="250" alt="Screenshot 3" src="https://github.com/user-attachments/assets/b01165e7-36fb-43df-b9e4-404f252ba9c6" />
 <img width="400" height="250" alt="Screenshot 4" src="https://github.com/user-attachments/assets/1dedc782-d196-4bda-8544-161eadd89aa6" />
 
+<img width="800" height="749" alt="image" src="https://github.com/user-attachments/assets/ee1b2b8a-ff8f-491b-bf26-e747caa3ba2e" />
