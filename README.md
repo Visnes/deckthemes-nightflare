@@ -1,5 +1,5 @@
-# NightFlare for DeckThemes & CustomCSS
-A indigo and neon orange theme for CustomCSS in DeckThemes for use with Steam Deck.
+# NightFlare for DeckThemes & CSS Loader
+A indigo and neon orange theme for CSS Loader in DeckThemes for use with Steam Deck.
 
 # Setup
 1. Go into Desktop Mode on your SteamDeck
@@ -7,7 +7,7 @@ A indigo and neon orange theme for CustomCSS in DeckThemes for use with Steam De
 3. Unpack .ZIP file
 4. Move the folder NightFlare.profile to ~/homebrew/themes
 5. Go back into Gaming Mode
-6. Open CustomCSS in Decky
+6. Open CSS Loader in Decky
 7. Settings
 8. Profiles
 9. Select NightFlare
