@@ -1,5 +1,5 @@
 # NightFlare for DeckThemes & CSS Loader
-A indigo and neon orange theme for CSS Loader in DeckThemes for use with Steam Deck. The theme is made to match the Neon Orange <a href="https://www.savage-raven.com/collections/steam-deck/products/the-hardshell-front-cover-for-steam-deck-standgrip-gripcase?variant=50274078294308" target="_blank">HardShell</a> and <a href="https://www.savage-raven.com/collections/steam-deck/products/gripcase-sd-for-steamdeck?variant=46797004177700" target="_blank">Galactic Purple GripCase</a> by <a href="https://www.savage-raven.com" target="_blank">Savage Raven by Skull & Co</a>.
+A indigo and neon orange theme for CSS Loader in DeckThemes for use with Steam Deck. The theme is made to match the <a href="https://www.savage-raven.com/collections/steam-deck/products/the-hardshell-front-cover-for-steam-deck-standgrip-gripcase?variant=50274078294308" target="_blank">Neon Orange HardShell</a> and <a href="https://www.savage-raven.com/collections/steam-deck/products/gripcase-sd-for-steamdeck?variant=46797004177700" target="_blank">Galactic Purple GripCase</a> by <a href="https://www.savage-raven.com" target="_blank">Savage Raven by Skull & Co</a>.
 
 # Setup
 1. Go into Desktop Mode on your SteamDeck
