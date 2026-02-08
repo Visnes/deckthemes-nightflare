@@ -14,6 +14,10 @@ Either download from Custom CSS or do the following:
 8. Scroll to the top and you should see NightFlare in "Select Profile"
 10. Select NightFlare
 
+# Warning
+- Only tested in handheld mode
+- The bottom part in gameview will be half hidden in docked mode
+
 # Screenshots
 <img width="400" height="250" alt="Screenshot 1" src="https://github.com/user-attachments/assets/1d6fa497-1ae1-4bd0-8d58-12f33dde8448" />
 <img width="400" height="250" alt="Screenshot 2" src="https://github.com/user-attachments/assets/08b055eb-b710-42e8-a89a-974c37c48079" />
